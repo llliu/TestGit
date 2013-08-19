@@ -9,5 +9,6 @@ package test;
  * @author linlin
  */
 public class test {
+    String abc = "abc";
     
 }
